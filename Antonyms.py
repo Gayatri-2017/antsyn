@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug 02 11:59:10 2016
-@author: Gayatri.k
+@author: Gayatri
 """
 
 ##### Antonyms #####
