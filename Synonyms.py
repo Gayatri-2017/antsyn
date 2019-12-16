@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug 02 11:38:04 2016
-@author: Gayatri.K
+@author: Gayatri
 """
 
 ###### Synonyms ######
